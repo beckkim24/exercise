@@ -5,4 +5,4 @@ toothbrush.
 Note that this toothbrush is totally safe to
 use for children, adults, pets, and wildlife, and trees.
 
-The toothbrush can speak seven different languages.
+The toothbrush can speak six different languages.
