@@ -5,4 +5,3 @@ toothbrush.
 Note that this toothbrush is totally safe to
 use for children, adults, pets, and wildlife, and trees.
 The toothbrush requires [need info here].
-This is the bex24 branch
